@@ -6,5 +6,5 @@ My interests are in the numerical analysis of Partial Differential Equations (PD
   - [GitHub](https://github.com/DelfinCalles)
 
  - Here you can find all my **projects**:
-     - Complete study of a PDE probleme with Neumann conditions on the limits[[Document](https://Projects/PDE_Problem_Study/Complete_study_PDE.pdf),[Code]()]
+     - Complete study of a PDE probleme with Neumann conditions on the limits[[Document](https://DelfinCalles/Projects/PDE_Problem_Study/Complete_study_PDE.pdf),[Code]()]
      - Introduction of the $\phi-FEM$ method for solving the Poisson problem with Dirichlet conditions on the limits[[Document](),[Code]()]
