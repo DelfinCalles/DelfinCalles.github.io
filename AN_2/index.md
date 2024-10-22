@@ -1,1 +1,7 @@
-Here I'll upload all the work I've done for my Analyse Numérique 2 course
+In the [Analyse Numérique 2](https://formations.umontpellier.fr/fr/formations/master-XB/master-mathematiques-ME157/modelisation-et-analyse-numerique-manu-PR493/m1-modelisation-et-analyse-numerique-manu-KKID8APB/analyse-numerique-2-KNQ2IHY6.html) course we have focused on implementing on code (Python) all the methods that we had studied theoretically, such as the finite difference and the finite volume methods. 
+
+- Here you can find all the work I have done for this course:
+    - Finite difference method for the heat equation in 2D [[Main code](https://DelfinCalles.github.io/AN_2/Chal_Imp/Chaleur2D_imp.ipynb), [Temp. plot](https://DelfinCalles.github.io/AN_2/Chal_Imp/plot_temperature.py)]
+    - Finite difference method for the heat equation in 2D with a source term and mixed limit conditions [[Main code](https://DelfinCalles.github.io/AN_2/Chal_Mixte_Exp/Chaleur2D_mixte_exp.ipynb), [Temp. plot](https://DelfinCalles.github.io/AN_2/Chal_Mixte_Exp/plot_temperature.py)]
+    - Comparing 2 finite difference methods for approximating the laplacian in 2D [[Main code](https://DelfinCalles.github.io/AN_2/DF_Lap2D/Laplacien_2D.ipynb), [CoeffDF](https://DelfinCalles.github.io/AN_2/DF_Lap2D/CoefDF.py)]
+    - Finite volume method for a 1D LCS [[Main code](https://DelfinCalles.github.io/AN_2/LCS/LCS.ipynb), [Data 1](https://DelfinCalles.github.io/AN_2/LCS/buckley.dat), [Data 2](https://DelfinCalles.github.io/AN_2/LCS/burgers_t=4tc.dat)]
