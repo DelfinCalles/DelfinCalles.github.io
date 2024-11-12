@@ -2,7 +2,7 @@ Second year student in [Université de Montpellier](https://www.umontpellier.fr/
 My interests are in the numerical analysis of Partial Differential Equations (PDEs) and the study of the methods used to solve them (Finite Differences, Finite Volumes, Finite Elements, HHO)
 
 - Here are all my **Links**: 
-  - [CV](https://DelfinCalles.github.io/documents/CV.pdf)
+  - CV[[Eng](https://DelfinCalles.github.io/documents/CV(eng).pdf), [Fr](https://DelfinCalles.github.io/documents/CV(fr).pdf)]
   - [GitHub](https://github.com/DelfinCalles)
 
 - Here you can find all the work I have done for my **Master's courses**:
