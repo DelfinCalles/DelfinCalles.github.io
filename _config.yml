@@ -1,5 +1,2 @@
-remote_theme: pages-themes/cayman@v0.2.0
-
-title: Delfín Calles Fantova
-description: In this website I will be uploading my personal and professional projects
-
+name: Delfín Calles Fantova
+markdown: kramdown
